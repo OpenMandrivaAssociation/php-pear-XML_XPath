@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - XPath/DOM XML manipulation, maneuvering and query interface
 Name:		php-pear-%{_pearname}
 Version:	1.2.3
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
@@ -19,7 +19,7 @@ Requires(preun): php-pear
 Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 The PEAR::XML_XPath class provides an XPath/DOM XML manipulation,
