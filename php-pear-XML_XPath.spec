@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - XPath/DOM XML manipulation, maneuvering and query interface
 Name:		php-pear-%{_pearname}
 Version:	1.2.3
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
