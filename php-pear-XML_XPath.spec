@@ -16,6 +16,7 @@ Patch0:		XML_XPath-1.2.4-fix-path.patch
 Requires(post): php-pear
 Requires(preun): php-pear
 Requires:	php-pear
+BuildRequires:	php-pear
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
