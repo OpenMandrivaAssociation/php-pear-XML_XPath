@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.4
-Release:	%mkrel 3
+Release:	%mkrel 4
 Summary:	XPath/DOM XML manipulation, maneuvering and query interface
 License:	PHP License
 Group:		Development/PHP
