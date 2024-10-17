@@ -8,7 +8,7 @@ Release:	7
 Summary:	XPath/DOM XML manipulation, maneuvering and query interface
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_XPath/
+URL:		https://pear.php.net/package/XML_XPath/
 Source0:	http://pear.php.net/get/%{upstream_name}-%{version}.tgz
 Patch0:		XML_XPath-1.2.4-fix-path.patch
 Requires(post): php-pear
